@@ -54,6 +54,8 @@ main {
     border-radius: 5px;
     box-sizing: border-box;
     box-shadow: 1px 1px #d9d9d9;
+    position:relative
+    
 }
 .instructions {
     padding-bottom: 1em;
